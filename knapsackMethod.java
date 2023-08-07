@@ -1,4 +1,5 @@
- package greedyKnapsack;
+// This method contains both Greedy and Dynamic method check your requirement and split the program to that part.
+package greedyKnapsack;
 import java.util.*;
 public class knapsackMethod {
 	static int[]p=new int[50];
